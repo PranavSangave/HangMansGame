@@ -7,7 +7,7 @@ You have to guess the letter of word to build the word with the help of given hi
 2.Take Player Name
 
 3.Take Difficulty Level
-  3.1 Set chances as per difficulty level.
+  - Set chances as per difficulty level.
 
 4.Start Game
 
